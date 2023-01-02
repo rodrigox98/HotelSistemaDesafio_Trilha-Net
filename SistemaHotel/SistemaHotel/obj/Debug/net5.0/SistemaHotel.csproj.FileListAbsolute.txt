@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.exe
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.deps.json
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.runtimeconfig.json
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.runtimeconfig.dev.json
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.dll
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\bin\Debug\net5.0\SistemaHotel.pdb
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.AssemblyInfo.cs
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.dll
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\refint\SistemaHotel.dll
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.pdb
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\SistemaHotel.genruntimeconfig.cache
+C:\Users\rodri\Documents\BootcampDio\DesafioHotel\SistemaHotel\SistemaHotel\obj\Debug\net5.0\ref\SistemaHotel.dll
